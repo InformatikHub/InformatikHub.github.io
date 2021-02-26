@@ -2,3 +2,4 @@
 
 ## Los geht's!
 
+<iframe src="https://bbb.kgt.de/monitoring/d-solo/HIbd_CXZz3/bigbluebutton-server-instance-node_exporter?orgId=1&var-datasource=default&var-job=bbb&var-job_node_exporter=bbb_node_exporter&var-instance=localhost&var-interface=br-0d1abc26b90a&from=1614056488523&to=1614104489416&panelId=2" width="450" height="200" frameborder="0"></iframe>
